@@ -1,0 +1,19 @@
+{
+    "all_settings": "Setting",
+    "all_back": "Back",
+    "all_continue": "Continue",
+    "all_restart": "Restart",
+    "all_menu": "Menu",
+    "all_start": "Start",
+    "all_about": "About",
+
+    "setting_audio_toggle": "Audio Effects",
+    "setting_music_toggle": "Music",
+    "setting_language": "Language",
+    "setting_language_en": "English",
+    "setting_language_vi": "Vietnamese",
+
+    "loose_gameover": "Game over!",
+    "get_key": "You got a key!",
+    "hint_message": "follow the ground to find the key"
+}

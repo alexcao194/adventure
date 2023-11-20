@@ -1,0 +1,19 @@
+{
+    "all_settings": "Cài đặt",
+    "all_back": "Quay lại",
+    "all_continue": "Tiếp tục",
+    "all_restart": "Chơi lại",
+    "all_menu": "Màn hình chính",
+    "all_start": "Bắt đầu",
+    "all_about": "Giới thiệu",
+
+    "setting_audio_toggle": "Hiệu ứng âm thanh",
+    "setting_music_toggle": "Âm nhạc",
+    "setting_language": "Ngôn ngữ",
+    "setting_language_en": "Tiếng Anh",
+    "setting_language_vi": "Tiếng Việt",
+
+    "loose_gameover": "Trò chơi kết thúc!",
+    "get_key": "Bạn đã nhận được chìa khóa!",
+    "hint_message": "Nhìn vào mặt đất để tìm chìa khóa"
+}
